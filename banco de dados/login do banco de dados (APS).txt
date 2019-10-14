@@ -1,0 +1,4 @@
+senha para se conectar ao banco de dados
+
+usuario root
+senha 1abD%35a1234
