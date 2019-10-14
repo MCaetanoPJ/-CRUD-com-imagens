@@ -1,0 +1,69 @@
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+C:\Users\Marcos\Documents\SharpDevelop Projects\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+F:\Faculdade\Programas Incompletos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+E:\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+E:\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+E:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+G:\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+G:\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+G:\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+C:\Users\Marcos\Desktop\Projetos\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.exe
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\bin\Debug\Cadastro_Placas.pdb
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csprojResolveAssemblyReference.cache
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_pessoa.resources
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.cadastro_placa.resources
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.Tela_Inicial.resources
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pesquisa.resources
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.csproj.GenerateResource.Cache
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.exe
+D:\Users\Marcos\Desktop\Ciência da Computação\Projetos C#\Cadastro_Placas_Transito (APS)\APS\Cadastro_Placas\Cadastro_Placas\obj\Debug\Cadastro_Placas.pdb
